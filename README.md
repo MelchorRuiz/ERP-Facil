@@ -1,6 +1,6 @@
 # ERP Fácil
 
-Este es un proyecto de **ERP para pequeñas empresas**, desarrollado utilizando las siguientes tecnologías:
+This is an **ERP for small businesses**, built using the following technologies:
 
-- **Frontend:** Angular
-- **Backend:** Strapi
+- **Frontend:** Angular  
+- **Backend:** Strapi  
